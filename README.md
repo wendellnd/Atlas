@@ -1,0 +1,2 @@
+# About
+O projeto Atlas é um jogo de plataformas com a temática medieval, onde o jogador enfrenta seus inimigos para salvar uma vila, a qual foi invadida. Os ideais passados pela história, personagens e o ambiente do jogo irão demonstrar a filosofia do libertarianismo e da ética libertária, fundamentada no conceito de propriedade privada.   O nome do protagonista faz referência ao personagem mitológico Atlas, o titã condenado a sustentar os céus para sempre, e ao livro da autora Ayn Rand - A Revolta de Atlas, onde o personagem se revolta contra ideais coletivistas.
