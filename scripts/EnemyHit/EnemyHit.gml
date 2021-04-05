@@ -5,7 +5,6 @@ function EnemyHit(argument0) {
 	if (hp > 0){
 		EnemyState_Hit();
 		flash = 10;
-		hitNow = true;
 	}else{
 		if(object_index = oSlime){
 			state = SLIMESTATE.DEAD;

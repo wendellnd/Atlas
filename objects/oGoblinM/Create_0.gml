@@ -3,7 +3,6 @@ grv = 0.25;
 walksp = 1.3;
 move = 1;
 hsp = walksp * move;
-counts = 0;
 before = 12;
 
 hitbyatkg = ds_list_create();
