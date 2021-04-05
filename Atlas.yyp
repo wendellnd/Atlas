@@ -92,7 +92,6 @@
     {"id":{"name":"oMenu","path":"objects/oMenu/oMenu.yy",},"order":9,},
     {"id":{"name":"oCamera","path":"objects/oCamera/oCamera.yy",},"order":11,},
     {"id":{"name":"oMusic","path":"objects/oMusic/oMusic.yy",},"order":13,},
-    {"id":{"name":"Extension1","path":"extensions/Extension1/Extension1.yy",},"order":24,},
     {"id":{"name":"oTransition","path":"objects/oTransition/oTransition.yy",},"order":15,},
     {"id":{"name":"oEndDead","path":"objects/oEndDead/oEndDead.yy",},"order":17,},
     {"id":{"name":"oGoblinM","path":"objects/oGoblinM/oGoblinM.yy",},"order":19,},
