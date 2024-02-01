@@ -12,7 +12,7 @@ if(hascontrol){
 	if(health <= 0){
 		instance_create_layer(x,y,layer,oAtlasD);
 		instance_destroy();
-	}	
+	}
 	delay++;
 }else{
 	sprite_index = sAtlas;
